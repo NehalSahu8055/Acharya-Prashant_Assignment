@@ -1,7 +1,4 @@
 # Acharya Prashant Website Replica
-
-<!-- <img style="justify-self:center" src="https://acharyaprashant.org/images/ic_favicon.png" width="30" height="30"> -->
-
 ## Description
 
 This project aims to replicate the Acharya Prashant course webpage with live API endpoints for various sections, including videos courses, FAQs, and dropdown Menu for All under Header Search Navbar.

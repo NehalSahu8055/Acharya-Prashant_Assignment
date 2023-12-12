@@ -130,7 +130,7 @@ Ensure you have the following software installed on your machine:
 ## Bonus
 
 - Fully Accessible with proper semantics and Screen User Friendly for visually impaired persons
-- Proper Loading Animation and Error Warning Custom Message 
+- Proper Loading Animation and Error Warning Custom Message
 
 ## Author
 
